@@ -28,7 +28,6 @@ Embedded software engineer with broad experience in developing and optimizing so
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KarimYasser275&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 </div>
-## 🗺️ **Contribution Map**
 <p align="center">
   <img src="https://github.com/KarimYasser275/KarimYasser275/blob/output/github-contribution-grid-snake.svg" />
 </p>
